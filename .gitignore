@@ -8,6 +8,7 @@ __pycache__/
 artifact
 .artifact
 artifacts
+.artifacts
 # Distribution / packaging
 .Python
 build/
