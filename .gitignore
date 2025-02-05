@@ -7,6 +7,7 @@ __pycache__/
 *.so
 artifact
 .artifact
+artifacts
 # Distribution / packaging
 .Python
 build/
